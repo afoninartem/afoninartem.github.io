@@ -1,0 +1,1 @@
+.container{display:flex;flex-direction:column;align-items:center;padding-top:15px}.container .need__form,.needs__container{display:grid;grid-template-columns:repeat(2,1fr)}.y:hover{color:green}.w:hover{color:#00f}.n:hover{color:red}
