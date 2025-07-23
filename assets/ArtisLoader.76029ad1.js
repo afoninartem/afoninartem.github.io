@@ -1,0 +1,1 @@
+import{Q as r}from"./QSpinnerCube.c5ef6b1c.js";import{_ as e,p as o,q as c}from"./index.35d82f09.js";const a={};function s(n,t){return o(),c(r,{color:"primary",size:"5.5em"})}var p=e(a,[["render",s]]);export{p as A};
